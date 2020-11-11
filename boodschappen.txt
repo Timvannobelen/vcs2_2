@@ -3,5 +3,6 @@ Pizza:
 - Pizzadeeg
 - Kaas
 - Tomaat
+- Parmazaanse kaas
 - Rucola
 - Saus
