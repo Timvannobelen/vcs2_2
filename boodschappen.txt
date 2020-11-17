@@ -6,6 +6,7 @@ Pizza:
 - Parmazaanse kaas
 - Rucola
 - Saus
+- Wakka mensen
 
 Ontbijt:
 - Brood
